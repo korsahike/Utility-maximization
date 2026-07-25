@@ -8,4 +8,5 @@ This repository contains an end to end geospatial AI & Multi agents Telematics s
 ```mermaid
 graph TD
     A[Simulated fleet telemetry dataframe] --> |kinematics engine|,B(Proportional Controller,v& omega)
+    A -->[Spatial Topology] C(Global Morans I Network Analysis)
 
