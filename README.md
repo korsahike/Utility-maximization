@@ -1,6 +1,6 @@
 # Geospatial Optimization & Fleet Telemetry
 
-Objective
+##Project Objective
 
-To design a fleet pipeline to track,control and analyse a robotic fleet
+This repository contains an end to end geospatial AI & Multi agents Trlrmatics design to track,control and analyse an autonomous robotic fleet in real time.
 
