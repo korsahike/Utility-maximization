@@ -1,2 +1,2 @@
-# Geospatial Optiimisation & Fleet Telemetry
+# Geospatial Optimization & Fleet Telemetry
 
