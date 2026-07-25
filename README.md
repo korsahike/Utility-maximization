@@ -2,5 +2,10 @@
 
 ##Project Objective
 
-This repository contains an end to end geospatial AI & Multi agents Trlrmatics design to track,control and analyse an autonomous robotic fleet in real time. 
+This repository contains an end to end geospatial AI & Multi agents Telematics system to design,track,control and analyse an autonomous robotic fleet in real time. The system uses a feedback control loop with spatial econometric diagnostics and a spatial database layer to optimises multi agent systems operations and also detetcing spatial anomalies.
+
+##System Architecture
+```mermaid
+graph TD
+    A{Simulated fleet telemetry dataframe] --> |kiunematics engine|,B(Proportional Controller,v& omega)
 
